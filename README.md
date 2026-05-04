@@ -1,1 +1,2 @@
-# Caesar-Ciper
+# Caesar-Cipher
+This was one of my first Python Projects. I used a chatbot format to encrypt and decrypt. It uses Python dictionaries to map character shifts. The Encoder function creates a shifted alphabet map to scramble text, while the Decoder reverses it to restore the original message. I used modular arithmetic (mod 26) to ensure the shift wraps around the alphabet correctly. I also used a try-except block to handle user invalid input. 
